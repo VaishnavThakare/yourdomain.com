@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+body, .passage5, .growthCard, .card1para, .card2para, .card3para, .card4para, .card4para2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.mainP5 {
+  background-color: rgb(245, 245, 245);
+  height: 23rem;
+}
+
+.passage5 {
+  margin-top: 30.3rem;
+  margin-left: 20rem;
+  height: 5rem;
+  padding: 2rem;
+}
+
+.passage5 .para1 {
+  color: #FF3147;  
+    margin: 1rem;
+    margin-top: -2rem;
+    margin-left: 19rem;
+  text-align: left;
+  font: normal normal 600 30px/110px Cormorant SC;
+  font-size: 20px;
+  margin-bottom: -2rem;
+}
+
+.passage5 .para2 {
+  width: 60%;
+  margin: 1rem;
+  margin-left: 12rem;
+  font: normal normal bold 30px/50px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.growthCard {
+  display: flex;
+}
+
+.growthCard1, .growthCard2, .growthCard3, .growthCard4 {
+  width: 15%;
+  height: 9rem;
+  text-align: center;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 3px 6px 20px #672C2C1F;
+  opacity: 1;
+  padding: 5px;
+  margin-left: 1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
+}
+
+
+.growthCard1:hover, .growthCard2:hover, .growthCard3:hover, .growthCard4:hover {
+  transform: scale(1.05); 
+  box-shadow: 6px 12px 24px rgba(103, 44, 44, 0.3); 
+  cursor: pointer;
+}
+
+.growthCard img {
+  margin-top: 0.5rem;
+}
+
+.card1para, .card2para, .card3para, .card4para {
+  margin-top: 7px;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Poppins';
+  letter-spacing: 0px;
+  color: #000000;
+}
+
+.card1para2, .card2para2, .card3para2, .card4para2 {
+  margin-top: -5px;
+  font-size: 15px;
+  text-align: center;
+  font-family: 'Poppins';
+  /* letter-spacing: 0px; */
+  color: #000000;
+  opacity: 1;
+}
+

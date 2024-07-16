@@ -1,0 +1,108 @@
+.Main{
+margin: 2rem;
+}
+
+.Main
+.passage1{
+    margin-left: 18rem;
+    height: 5rem;
+    width: 40%;
+    padding: 2rem;
+}
+
+.passage1
+.para1{
+    color: #FF3147;  
+      margin: 1rem;
+    text-align: left;
+    font: normal normal 600 30px/110px Cormorant SC;
+    font-size: 20px;
+
+    margin-bottom: -2rem;
+   
+}
+
+.passage1
+.para2{
+    margin: 1rem;
+    text-align: left;
+    font: normal normal bold 40px/60px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+   
+}
+
+.passage1
+.para3{
+    margin: 1rem;
+    width: 80%;
+}
+
+.passage1
+.btn{
+    width: 25%;
+    height: 2.2rem;
+    background-color: #ff3147;
+    margin: 1rem;
+    border: none;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    color: #FFFFFF;
+    cursor: pointer;
+    /* text-align: left;
+font: normal normal 600 14px/26px Poppins;
+letter-spacing: 1.4px;
+color: #FFFFFF;
+opacity: 1; */
+}
+.image1{
+    /* z-index: -1 !important; */
+    margin-left: 52rem;
+
+
+}
+
+.image1 img{
+    width: 50%;
+    height: 25rem;
+    margin-top: -5rem;
+    /* z-index: -1 !important; */
+
+
+}
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .popup-content {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    position: relative;
+    width: 25%;
+  }
+  
+  .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    /* z-index: 99 !important; */
+  }
+  

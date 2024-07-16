@@ -1,0 +1,143 @@
+.passage4{
+    margin-top: 17rem;
+    margin-left: 20rem;
+    height: 5rem;
+    padding: 2rem;
+    display: flex;
+}
+
+.passage4 .para1{
+    color: #FF3147;  
+    margin: 1rem;
+    margin-top: 0rem;
+    margin-left: 19rem;
+  text-align: left;
+  font: normal normal 600 30px/110px Cormorant SC;
+  font-size: 20px;
+  margin-bottom: -2rem;
+
+}
+
+.passage4 .para2{
+    width: 60%;
+    margin: 1rem;
+    margin-left: 14rem;
+    font: normal normal bold 30px/50px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.projectImg{
+    margin-top: 1rem;
+    height: 21.5rem;
+    width: 80%;
+    background: transparent url('') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.projects{
+    height: 20rem;
+    margin-top: 11rem;
+    margin-left: -6rem;
+}
+
+.project1{
+    width: 40%;
+    height: 5.2rem;
+    background-color: rgb(243, 239, 239);
+    padding: 1rem;
+    margin-left: 1rem;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+.projectHeading1{
+    margin-top: -0.5rem;
+    text-align: left;
+    font-weight: bold;
+font: normal normal medium 20px/80px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+
+.projectPara1{
+    margin-top: -0.7rem;
+    text-align: left;
+font: normal normal normal 16px/23px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.project2{
+    width: 40%;
+    height: 5.2rem;
+    background-color: rgb(243, 239, 239);
+    padding: 1rem;
+    margin-left: 1rem;
+    text-align: center;
+    cursor: pointer;
+
+}
+.projectHeading2{
+    margin-top: -0.8rem;
+    text-align: left;
+    font-weight: bold;
+font: normal normal medium 20px/80px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.projectPara2{
+    margin-top: -0.7rem;
+    text-align: left;
+font: normal normal normal 16px/23px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.project3{
+    width: 40%;
+    height: 5.2rem;
+    background-color: rgb(243, 239, 239);
+    padding: 1rem;
+    margin-left: 1rem;
+    text-align: center;
+    cursor: pointer;
+
+}
+.projectHeading3{
+    margin-top: -0.5rem;
+    text-align: left;
+    font-weight: bold;
+font: normal normal medium 20px/80px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.projectPara3{
+    margin-top: -0.7rem;
+    text-align: left;
+font: normal normal normal 16px/23px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+  .selected {
+    background-color: #ff3147;
+    color: white;
+  }
+  
+  .selected p {
+    color: white;
+  }
+  

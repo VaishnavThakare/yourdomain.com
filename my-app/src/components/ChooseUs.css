@@ -1,0 +1,160 @@
+.passage3{
+    margin-top: 1rem;
+    margin-left: 20rem;
+    height: 5rem;
+    padding: 2rem;
+}
+
+.passage3 .para1{
+    color: #FF3147;  
+      margin: 1rem;
+      margin-left: 19rem;
+    text-align: left;
+    font: normal normal 600 30px/110px Cormorant SC;
+    margin-bottom: -2rem;
+    font-size: 20px;
+
+}
+
+.passage3 .para2{
+    width: 60%;
+    margin: 1rem;
+    margin-left: 15rem;
+    font: normal normal bold 30px/50px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+
+.Reim-main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    margin-top: -10px;
+    justify-content: flex-start;
+}
+
+
+
+.Reim1 {
+    width: 24%;
+    height: 170px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 3px;
+    /* margin-top:70px; */
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.Reim2 {
+    width: 220px;
+    height: 170px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 3px;
+    margin-top: 70px;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Reim3 {
+    width: 220px;
+    height: 170px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 3px;
+    margin-top: 70px;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Reim4 {
+    width: 220px;
+    height: 170px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin: 3px;
+    margin-top: 70px;
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.reimImage {
+    width: 40px;
+    height: 40px;
+    margin: 20px 23px;
+}
+
+.reimPara1 {
+    width: 200px;
+    margin-top: 82px;
+    margin-left: -5rem;
+    font-weight: 500;
+}
+.reimPara1a {
+   
+    margin-top: 8rem;
+    margin-left: -12.5rem;
+    width: 200px;
+}
+
+
+.reimPara2 {
+    width: 200px;
+    margin-top: 82px;
+    margin-left: -4.5rem;
+    font-weight: 500;
+}
+
+.reimPara2a {
+   
+    margin-top: 8rem;
+    margin-left: -12.5rem;
+    width: 200px;
+}
+
+.reimPara3 {
+    width: 200px;
+
+    margin-top: 82px;
+    margin-left: -4.5rem;
+    font-weight: 500;
+}
+
+.reimPara3a {
+   
+    margin-top: 8rem;
+    margin-left: -12.5rem;
+    width: 200px;
+}
+
+.reimPara4 {
+    width: 200px;
+
+    margin-top: 82px;
+    margin-left: -5.5rem;
+    font-weight: 500;
+}
+
+.reimPara4a {
+   
+    margin-top: 8rem;
+    margin-left: -12.5rem;
+    width: 200px;
+}
+
+.img4 .reimImage {
+    width: 40px;
+    height: 40px;
+    margin: 20px 73px;
+}
+.reimImage4{
+    width: 40px;
+    height: 40px;
+    margin: 20px 33px;
+}
+

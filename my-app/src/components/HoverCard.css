@@ -1,0 +1,109 @@
+.hoverCard {
+    width: 15%;
+    height: 15rem;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ff3147;
+  }
+  
+  .logo {
+    width: 40px;
+    height: 40px;
+    margin: 40px 5.5rem;
+  }
+  
+  .heading {
+    margin-top: -2rem;
+    margin-left: 2.5rem;
+    margin-bottom: 10px;
+    color: white;
+  }
+  .para{
+    color: #f0e7e7;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 2rem
+  }
+  p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  /* .read-more {
+    text-decoration: none;
+    background-color: #fff;
+    color: #ff3147;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    transition: color 0.2s ease;
+    margin-left: 2.8rem;
+  }
+
+  .arrow{
+    margin-left: 1rem;
+    width: 25px;
+  }
+   */
+   
+  .modal {
+    position: absolute;
+    top: 5%;
+    left: 37%;
+    right: auto;
+    bottom: auto;
+    marginRight: '-50%';
+    transform: 'translate(-50%, -50%)';
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    outline: none;
+    boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)';
+    width: 400px;
+  }
+  
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    backgroundColor: 'rgba(0, 0, 0, 0.5)';
+    zIndex: 1000;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .read-more {
+    text-decoration: none;
+    background-color: #fff;
+    color: #ff3147;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    transition: color 0.2s ease;
+    margin-left: 2.8rem;
+    border: none;
+    cursor: pointer;
+
+    
+  }
+  
+  .arrow {
+    margin-left: 1rem;
+    width: 25px;
+  }
+
+  
+  
+  

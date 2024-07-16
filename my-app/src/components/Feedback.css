@@ -1,0 +1,53 @@
+.passage6{
+    margin-top: 0rem;
+    margin-left: 20rem;
+    height: 5rem;
+    padding: 2rem;
+}
+
+.passage6 .para1{
+    color: #FF3147;  
+    margin: 1rem;
+    margin-top: 0rem;
+    margin-left: 19rem;
+  text-align: left;
+  font: normal normal 600 30px/110px Cormorant SC;
+  font-size: 20px;
+  margin-bottom: -2rem;
+
+}
+
+.passage6 .para2{
+    width: 60%;
+    margin: 1rem;
+    margin-left: 12rem;
+    font: normal normal bold 30px/50px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+
+}
+
+.passage6 .para3{
+    width: 50%;
+    margin: 1rem;
+    margin-left: 8rem;
+    text-align: left;
+font-family: ' Poppins';
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+.clientsName{
+    display: flex;
+}
+
+.name{
+    color: red;
+    font-weight: bold;
+    margin-left: 8rem;
+}
+

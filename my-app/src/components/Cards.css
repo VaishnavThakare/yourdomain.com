@@ -1,0 +1,83 @@
+.passage2 {
+  margin-left: 20rem;
+  height: 5rem;
+  width: 40%;
+  padding: 2rem;
+}
+
+.passage2 .para4 {
+  color: #FF3147;  
+  margin: 1rem;
+  margin-top: 0rem;
+text-align: left;
+font: normal normal 600 30px/110px Cormorant SC;
+font-size: 20px;
+
+margin-bottom: -2rem;
+}
+
+.passage2 .para5 {
+  width: 60%;
+  margin: 1rem;
+  text-align: left;
+  font: normal normal bold 30px/50px Cormorant SC;
+  letter-spacing: 0px;
+  color: #000000;
+  text-transform: uppercase;
+  opacity: 1;
+}
+
+.passage2 .para6 {
+  /* display: flex; */
+  margin: -7rem -11rem;
+  width: 62%;
+  float: right;
+}
+
+.carousel {
+  width: 65%;
+  position: relative;
+  margin-top: 6rem;
+  margin-left: 20rem;
+  height: 20rem;
+  overflow: hidden;
+}
+
+.cards {
+  margin-left: 2rem;
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.card {
+  margin: 1rem;
+  height: 15rem;
+  width: 20%;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05); /* Example: Slightly scale up on hover */
+  cursor: pointer;
+}
+
+.dots {
+  position: absolute;
+  bottom: 10px;
+  left: 3rem;
+  display: flex;
+  gap: 5px;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.dot.active {
+  background-color: #717171;
+}
