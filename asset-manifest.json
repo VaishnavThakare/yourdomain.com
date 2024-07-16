@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yourdomain.com/static/css/main.5aeedbe2.css",
+    "main.js": "/yourdomain.com/static/js/main.41f09bcd.js",
+    "static/js/453.ed3810f9.chunk.js": "/yourdomain.com/static/js/453.ed3810f9.chunk.js",
+    "static/media/homepageImg.png": "/yourdomain.com/static/media/homepageImg.72dcd7ce3eccee118e7f.png",
+    "static/media/card4.png": "/yourdomain.com/static/media/card4.4847d84ba228ce665efe.png",
+    "static/media/projectImg1.png": "/yourdomain.com/static/media/projectImg1.4847d84ba228ce665efe.png",
+    "static/media/card3.png": "/yourdomain.com/static/media/card3.e65d83b197e1e2d7e4b0.png",
+    "static/media/card5.png": "/yourdomain.com/static/media/card5.80dacd616fa96e87cbf2.png",
+    "static/media/projectImg2.png": "/yourdomain.com/static/media/projectImg2.d00d9724f0a4e176e86c.png",
+    "static/media/card7.png": "/yourdomain.com/static/media/card7.c4b7ec28b4434905ac33.png",
+    "static/media/card2.png": "/yourdomain.com/static/media/card2.95a1a5e3c9dacd008e16.png",
+    "static/media/projectImg3.png": "/yourdomain.com/static/media/projectImg3.287b02d25b410759df9c.png",
+    "static/media/card6.png": "/yourdomain.com/static/media/card6.7e65a6844d6258b9c090.png",
+    "static/media/card1.png": "/yourdomain.com/static/media/card1.953337e9488dd06779e7.png",
+    "static/media/clients.png": "/yourdomain.com/static/media/clients.f8556dd2773223caabae.png",
+    "static/media/HoverImg.PNG": "/yourdomain.com/static/media/HoverImg.cbc2af603d4b624940b3.PNG",
+    "index.html": "/yourdomain.com/index.html",
+    "main.5aeedbe2.css.map": "/yourdomain.com/static/css/main.5aeedbe2.css.map",
+    "main.41f09bcd.js.map": "/yourdomain.com/static/js/main.41f09bcd.js.map",
+    "453.ed3810f9.chunk.js.map": "/yourdomain.com/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aeedbe2.css",
+    "static/js/main.41f09bcd.js"
+  ]
+}
